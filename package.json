@@ -1,0 +1,26 @@
+{
+  "name": "belajar-tailwindcss",
+  "version": "1.0.0",
+  "description": "<p align=\"center\" style=\"display: inline;\"><a href=\"https://tailwindcss.com/\" target=\"_blank\"><img src=\"https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg\" width=\"200\"></a></p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "save": "npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css -- watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABDUL-HALIM-MUKLIS/Belajar-TailwindCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABDUL-HALIM-MUKLIS/Belajar-TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/ABDUL-HALIM-MUKLIS/Belajar-TailwindCSS#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15"
+  }
+}
