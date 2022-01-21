@@ -2,9 +2,11 @@
 
 # Belajar TailwindCSS
 
-## Instalasi [TailwindCSS](https://tailwindcss.com/docs/installation)
+## [Instalasi TailwindCSS](https://tailwindcss.com/docs/installation)
 
 - Script di bawah ini agar hasill css menjadi lebih ringkas dan berukuran kecil
 ```
     npx tailwindcss -o ./public/css/final.css --minify
 ```
+
+![Gambar teks editor VS Code](https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg)
