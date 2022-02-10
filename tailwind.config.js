@@ -1,7 +1,11 @@
 module.exports = {
   content: ['./public/**/*.{html,js}'],
   theme: {
-    extend: {},
+    extend: {
+      backgroundSize: {
+        '80%': '80%',
+      },
+    },
   },
   plugins: [],
 }
